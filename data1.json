@@ -4,7 +4,7 @@
         "level2": "Direction Adjointe",
         "level3": "DQSE",
         "person": "Afsaneh LELLAHI-MONTARGES",
-        "kpi": 38
+        "kpi": 94
     },
     {
         "level1": "Dom Monceau TI",
@@ -12,13 +12,13 @@
         "level3": "DQSE",
         "level4": "Poste 1",
         "person": "CHRISTEL LOUDIEU",
-        "kpi": 71
+        "kpi": 65
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Adjointe",
         "level3": "Pilo., veil straté. act. Inter.",
-        "person": "Afsaneh LELLAHI-MONTARGES",
+        "person": "JOSIANE CHAMPOLIVIER",
         "kpi": 31
     },
     {
@@ -27,7 +27,7 @@
         "level3": "Pilo., veil straté. act. Inter.",
         "level4": "Poste 1",
         "person": "ETIENNE PILORGE",
-        "kpi": 66
+        "kpi": 72
     },
     {
         "level1": "Dom Monceau TI",
@@ -35,7 +35,7 @@
         "level3": "Pilo., veil straté. act. Inter.",
         "level4": "Poste 2",
         "person": "XAVIER PINOCHET",
-        "kpi": 94
+        "kpi": 27
     },
     {
         "level1": "Dom Monceau TI",
@@ -43,7 +43,7 @@
         "level3": "Pilo., veil straté. act. Inter.",
         "level4": "Poste 3",
         "person": "LAURINE BRILLAULT",
-        "kpi": 26
+        "kpi": 58
     },
     {
         "level1": "Dom Monceau TI",
@@ -51,63 +51,55 @@
         "level3": "Pilo., veil straté. act. Inter.",
         "level4": "Poste 4",
         "person": "LIN LINE MANCA",
-        "kpi": 80
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "Direction Adjointe",
-        "level3": "Pilo., veil straté. act. Inter.",
-        "level4": "Poste 5",
-        "person": "JOSIANE CHAMPOLIVIER",
-        "kpi": 66
+        "kpi": 42
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "DAF TI",
         "person": "AURELIE GERARD",
-        "kpi": 49
+        "kpi": 66
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "DAF TI",
         "level3": "Poste 1",
         "person": "PHILIPPE BENOIST",
-        "kpi": 70
+        "kpi": 79
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "DAF TI",
         "level3": "Poste 2",
         "person": "MELANIE BARROS",
-        "kpi": 57
+        "kpi": 90
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "DAF TI",
         "level3": "Poste 3",
         "person": "EZECHIAS MAZI",
-        "kpi": 28
+        "kpi": 84
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "DAF TI",
         "level3": "Poste 4",
         "person": "LAURENT LHUISSIER",
-        "kpi": 65
+        "kpi": 95
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "DAF TI",
         "level3": "Poste 5",
         "person": "Zeendoc ZEENDOC",
-        "kpi": 35
+        "kpi": 97
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "DAF TI",
         "level3": "Ressources financières TI",
         "person": "AURELIE GERARD",
-        "kpi": 56
+        "kpi": 30
     },
     {
         "level1": "Dom Monceau TI",
@@ -115,7 +107,7 @@
         "level3": "Ressources financières TI",
         "level4": "Poste 1",
         "person": "EDWIGE MOUDALBAYE",
-        "kpi": 61
+        "kpi": 79
     },
     {
         "level1": "Dom Monceau TI",
@@ -123,7 +115,7 @@
         "level3": "Ressources financières TI",
         "level4": "Poste 2",
         "person": "GERARD POSE",
-        "kpi": 22
+        "kpi": 87
     },
     {
         "level1": "Dom Monceau TI",
@@ -131,7 +123,7 @@
         "level3": "Ressources financières TI",
         "level4": "Poste 3",
         "person": "SALOME MARTINS",
-        "kpi": 71
+        "kpi": 70
     },
     {
         "level1": "Dom Monceau TI",
@@ -139,7 +131,7 @@
         "level3": "Ressources financières TI",
         "level4": "Poste 4",
         "person": "MATHILDE NGO HONG",
-        "kpi": 71
+        "kpi": 57
     },
     {
         "level1": "Dom Monceau TI",
@@ -147,7 +139,7 @@
         "level3": "Ressources financières TI",
         "level4": "Poste 5",
         "person": "TANIA POPOVIC",
-        "kpi": 82
+        "kpi": 86
     },
     {
         "level1": "Dom Monceau TI",
@@ -155,14 +147,14 @@
         "level3": "Ressources financières TI",
         "level4": "Poste 6",
         "person": "AMANDINE JAYAT",
-        "kpi": 44
+        "kpi": 21
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "DAF TI",
         "level3": "Services Généraux",
-        "person": "AURELIE GERARD",
-        "kpi": 52
+        "person": "AURORE BORREGO",
+        "kpi": 94
     },
     {
         "level1": "Dom Monceau TI",
@@ -170,7 +162,7 @@
         "level3": "Services Généraux",
         "level4": "Poste 1",
         "person": "MARYSE BARON",
-        "kpi": 44
+        "kpi": 47
     },
     {
         "level1": "Dom Monceau TI",
@@ -178,132 +170,124 @@
         "level3": "Services Généraux",
         "level4": "Poste 2",
         "person": "ESAT ESAT",
-        "kpi": 46
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "DAF TI",
-        "level3": "Services Généraux",
-        "level4": "Poste 3",
-        "person": "AURORE BORREGO",
-        "kpi": 35
+        "kpi": 83
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Pôle Ressources Humaines",
         "person": "France SULTANA-CARRIAT",
-        "kpi": 49
+        "kpi": 28
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Pôle Ressources Humaines",
         "level3": "Poste 1",
         "person": "CORINNE MOQUARD",
-        "kpi": 80
+        "kpi": 61
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Pôle Ressources Humaines",
         "level3": "Poste 2",
         "person": "VIRGINIE DEVILLER",
-        "kpi": 84
+        "kpi": 99
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Pôle Ressources Humaines",
         "level3": "Poste 3",
         "person": "NOEMIE MADELAINE",
-        "kpi": 50
+        "kpi": 45
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Pôle Ressources Humaines",
         "level3": "Poste 4",
         "person": "KAROL GOMEZ SALAZAR",
-        "kpi": 23
+        "kpi": 91
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Pôle Ressources Humaines",
         "level3": "Poste 5",
         "person": "SARRA SADDIK",
-        "kpi": 62
+        "kpi": 78
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Pôle Ressources Humaines",
         "level3": "Poste 6",
         "person": "RH RH",
-        "kpi": 76
+        "kpi": 71
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction TI",
         "person": "LAURENT ROSSO",
-        "kpi": 43
+        "kpi": 95
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction TI",
         "level3": "Poste 1",
         "person": "CHRISTINE GIGANDON",
-        "kpi": 53
+        "kpi": 74
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction TI",
         "level3": "Poste 2",
         "person": "JULIE AUQUE",
-        "kpi": 77
+        "kpi": 35
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction TI",
         "level3": "Poste 3",
         "person": "France SULTANA-CARRIAT",
-        "kpi": 30
+        "kpi": 63
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction TI",
         "level3": "Poste 4",
         "person": "Afsaneh LELLAHI-MONTARGES",
-        "kpi": 31
+        "kpi": 92
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction TI",
         "level3": "Poste 5",
         "person": "GILLES ROBILLARD",
-        "kpi": 92
+        "kpi": 87
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction TI",
         "level3": "Poste 6",
         "person": "AURELIE GERARD",
-        "kpi": 34
+        "kpi": 98
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction TI",
         "level3": "Poste 7",
         "person": "LIONEL RIVIERE",
-        "kpi": 82
+        "kpi": 62
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction TI",
         "level3": "Poste 8",
         "person": "FREDERIC GIRAUD",
-        "kpi": 59
+        "kpi": 29
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction TI",
         "level3": "Direction Valorisation",
-        "person": "LAURENT ROSSO",
-        "kpi": 24
+        "person": "FREDERIC FINE",
+        "kpi": 51
     },
     {
         "level1": "Dom Monceau TI",
@@ -311,7 +295,7 @@
         "level3": "Direction Valorisation",
         "level4": "Poste 1",
         "person": "maria malkoun",
-        "kpi": 41
+        "kpi": 77
     },
     {
         "level1": "Dom Monceau TI",
@@ -319,7 +303,7 @@
         "level3": "Direction Valorisation",
         "level4": "Poste 2",
         "person": "LAURENCE GIRAUD",
-        "kpi": 52
+        "kpi": 38
     },
     {
         "level1": "Dom Monceau TI",
@@ -327,97 +311,89 @@
         "level3": "Direction Valorisation",
         "level4": "Poste 3",
         "person": "ELISE ODINOT",
-        "kpi": 38
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "Direction TI",
-        "level3": "Direction Valorisation",
-        "level4": "Poste 4",
-        "person": "FREDERIC FINE",
-        "kpi": 57
+        "kpi": 46
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Communication",
         "person": "CHRISTINE GIGANDON",
-        "kpi": 31
+        "kpi": 42
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Communication",
         "level3": "Poste 1",
         "person": "MARLENE MEANCE",
-        "kpi": 54
+        "kpi": 71
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Communication",
         "level3": "Poste 2",
         "person": "NATHALIE HAREL",
-        "kpi": 77
+        "kpi": 70
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Communication",
         "level3": "Poste 3",
         "person": "SYLVIA EGOT",
-        "kpi": 69
+        "kpi": 67
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Communication",
         "level3": "Poste 4",
         "person": "ISABELLE LARTIGOT",
-        "kpi": 98
+        "kpi": 52
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Communication",
         "level3": "Poste 5",
         "person": "CLAIRE MANDARD",
-        "kpi": 85
+        "kpi": 31
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Communication",
         "level3": "Poste 6",
         "person": "STEPHANIE BERARD",
-        "kpi": 95
+        "kpi": 20
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Communication",
         "level3": "Poste 7",
         "person": "THOMAS LHOTTE",
-        "kpi": 34
+        "kpi": 43
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "D2IN",
         "person": "JULIE AUQUE",
-        "kpi": 58
+        "kpi": 67
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "D2IN",
         "level3": "Poste 1",
         "person": "FREDERIC SALVI",
-        "kpi": 37
+        "kpi": 56
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "D2IN",
         "level3": "Poste 2",
         "person": "CELIA PONTET",
-        "kpi": 34
+        "kpi": 77
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "D2IN",
         "level3": "D2IN – INFRA",
         "person": "JULIE AUQUE",
-        "kpi": 52
+        "kpi": 85
     },
     {
         "level1": "Dom Monceau TI",
@@ -425,7 +401,7 @@
         "level3": "D2IN – INFRA",
         "level4": "Poste 1",
         "person": "CHRISTOPHE BERNARD",
-        "kpi": 92
+        "kpi": 31
     },
     {
         "level1": "Dom Monceau TI",
@@ -433,14 +409,14 @@
         "level3": "D2IN – INFRA",
         "level4": "Poste 2",
         "person": "ETIENNE RASSAMY",
-        "kpi": 75
+        "kpi": 85
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "D2IN",
         "level3": "D2IN – DM",
         "person": "CELIA PONTET",
-        "kpi": 21
+        "kpi": 82
     },
     {
         "level1": "Dom Monceau TI",
@@ -448,7 +424,7 @@
         "level3": "D2IN – DM",
         "level4": "Poste 1",
         "person": "SEBASTIEN GERVOIS",
-        "kpi": 55
+        "kpi": 42
     },
     {
         "level1": "Dom Monceau TI",
@@ -456,7 +432,7 @@
         "level3": "D2IN – DM",
         "level4": "Poste 2",
         "person": "FLORENT COQUELET",
-        "kpi": 76
+        "kpi": 85
     },
     {
         "level1": "Dom Monceau TI",
@@ -464,14 +440,14 @@
         "level3": "D2IN – DM",
         "level4": "Poste 3",
         "person": "PIERRE ETIENNE ALARY",
-        "kpi": 51
+        "kpi": 48
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "D2IN",
         "level3": "D2IN – OS",
         "person": "FREDERIC SALVI",
-        "kpi": 86
+        "kpi": 51
     },
     {
         "level1": "Dom Monceau TI",
@@ -479,7 +455,7 @@
         "level3": "D2IN – OS",
         "level4": "Poste 1",
         "person": "FRANCOISE MARAIS",
-        "kpi": 85
+        "kpi": 45
     },
     {
         "level1": "Dom Monceau TI",
@@ -487,7 +463,7 @@
         "level3": "D2IN – OS",
         "level4": "Poste 2",
         "person": "Jean Eudes HOLLEBECQ",
-        "kpi": 49
+        "kpi": 25
     },
     {
         "level1": "Dom Monceau TI",
@@ -495,7 +471,7 @@
         "level3": "D2IN – OS",
         "level4": "Poste 3",
         "person": "SUZIE BEGIN",
-        "kpi": 41
+        "kpi": 97
     },
     {
         "level1": "Dom Monceau TI",
@@ -503,14 +479,14 @@
         "level3": "D2IN – OS",
         "level4": "Poste 4",
         "person": "MALIKA MAATI",
-        "kpi": 36
+        "kpi": 73
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "DRT",
         "level3": "Zone Centre Ouest",
         "person": "Afsaneh LELLAHI-MONTARGES",
-        "kpi": 88
+        "kpi": 94
     },
     {
         "level1": "Dom Monceau TI",
@@ -518,7 +494,7 @@
         "level3": "Zone Centre Ouest",
         "level4": "Poste 1",
         "person": "VERONIQUE QUARTIER",
-        "kpi": 89
+        "kpi": 20
     },
     {
         "level1": "Dom Monceau TI",
@@ -526,7 +502,7 @@
         "level3": "Zone Centre Ouest",
         "level4": "Poste 2",
         "person": "JULIEN CHARBONNAUD",
-        "kpi": 36
+        "kpi": 32
     },
     {
         "level1": "Dom Monceau TI",
@@ -534,7 +510,7 @@
         "level3": "Zone Centre Ouest",
         "level4": "Poste 3",
         "person": "JEAN LIEVEN",
-        "kpi": 59
+        "kpi": 41
     },
     {
         "level1": "Dom Monceau TI",
@@ -542,7 +518,7 @@
         "level3": "Zone Centre Ouest",
         "level4": "Poste 4",
         "person": "AGATHE PENANT",
-        "kpi": 54
+        "kpi": 78
     },
     {
         "level1": "Dom Monceau TI",
@@ -550,7 +526,7 @@
         "level3": "Zone Centre Ouest",
         "level4": "Poste 5",
         "person": "ELODIE TOURTON",
-        "kpi": 28
+        "kpi": 84
     },
     {
         "level1": "Dom Monceau TI",
@@ -558,7 +534,7 @@
         "level3": "Zone Centre Ouest",
         "level4": "Poste 6",
         "person": "AUDREY MAURICE",
-        "kpi": 49
+        "kpi": 38
     },
     {
         "level1": "Dom Monceau TI",
@@ -566,7 +542,7 @@
         "level3": "Zone Centre Ouest",
         "level4": "Poste 7",
         "person": "MATTHIEU LOOS",
-        "kpi": 85
+        "kpi": 56
     },
     {
         "level1": "Dom Monceau TI",
@@ -574,7 +550,7 @@
         "level3": "Zone Centre Ouest",
         "level4": "Poste 8",
         "person": "ZOE LE BIHAN",
-        "kpi": 55
+        "kpi": 26
     },
     {
         "level1": "Dom Monceau TI",
@@ -582,7 +558,7 @@
         "level3": "Zone Centre Ouest",
         "level4": "Poste 9",
         "person": "THOMAS MEAR",
-        "kpi": 67
+        "kpi": 44
     },
     {
         "level1": "Dom Monceau TI",
@@ -590,7 +566,7 @@
         "level3": "Zone Centre Ouest",
         "level4": "Poste 10",
         "person": "SOLANA VERA",
-        "kpi": 59
+        "kpi": 89
     },
     {
         "level1": "Dom Monceau TI",
@@ -598,7 +574,7 @@
         "level3": "Zone Centre Ouest",
         "level4": "Poste 11",
         "person": "JULIE LELOUEY",
-        "kpi": 97
+        "kpi": 98
     },
     {
         "level1": "Dom Monceau TI",
@@ -606,7 +582,7 @@
         "level3": "Zone Centre Ouest",
         "level4": "Poste 12",
         "person": "CAROLINA ORELLANA TORREJON",
-        "kpi": 43
+        "kpi": 51
     },
     {
         "level1": "Dom Monceau TI",
@@ -614,7 +590,7 @@
         "level3": "Zone Centre Ouest",
         "level4": "Poste 13",
         "person": "LAURINE GAZUIT",
-        "kpi": 99
+        "kpi": 44
     },
     {
         "level1": "Dom Monceau TI",
@@ -622,14 +598,14 @@
         "level3": "Zone Centre Ouest",
         "level4": "Poste 14",
         "person": "GUILLAUME LAMY",
-        "kpi": 72
+        "kpi": 60
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "DRT",
         "level3": "Zone Sud",
-        "person": "Afsaneh LELLAHI-MONTARGES",
-        "kpi": 92
+        "person": "CHRISTOPHE VOGRINCIC",
+        "kpi": 58
     },
     {
         "level1": "Dom Monceau TI",
@@ -637,7 +613,7 @@
         "level3": "Zone Sud",
         "level4": "Poste 1",
         "person": "ELODIE BROQUET",
-        "kpi": 22
+        "kpi": 35
     },
     {
         "level1": "Dom Monceau TI",
@@ -645,7 +621,7 @@
         "level3": "Zone Sud",
         "level4": "Poste 2",
         "person": "MATTHIEU ABELLA",
-        "kpi": 100
+        "kpi": 52
     },
     {
         "level1": "Dom Monceau TI",
@@ -653,7 +629,7 @@
         "level3": "Zone Sud",
         "level4": "Poste 3",
         "person": "Arnaud MICHENEAU",
-        "kpi": 64
+        "kpi": 54
     },
     {
         "level1": "Dom Monceau TI",
@@ -661,7 +637,7 @@
         "level3": "Zone Sud",
         "level4": "Poste 4",
         "person": "QUENTIN LAMBERT",
-        "kpi": 31
+        "kpi": 23
     },
     {
         "level1": "Dom Monceau TI",
@@ -669,7 +645,7 @@
         "level3": "Zone Sud",
         "level4": "Poste 5",
         "person": "ALEXIS VERNIAU",
-        "kpi": 46
+        "kpi": 79
     },
     {
         "level1": "Dom Monceau TI",
@@ -677,7 +653,7 @@
         "level3": "Zone Sud",
         "level4": "Poste 6",
         "person": "LAURA CIPOLLA",
-        "kpi": 62
+        "kpi": 90
     },
     {
         "level1": "Dom Monceau TI",
@@ -693,7 +669,7 @@
         "level3": "Zone Sud",
         "level4": "Poste 8",
         "person": "CYRIELLE MAZALEYRAT",
-        "kpi": 34
+        "kpi": 63
     },
     {
         "level1": "Dom Monceau TI",
@@ -701,7 +677,7 @@
         "level3": "Zone Sud",
         "level4": "Poste 9",
         "person": "LAURA GILES",
-        "kpi": 86
+        "kpi": 46
     },
     {
         "level1": "Dom Monceau TI",
@@ -709,7 +685,7 @@
         "level3": "Zone Sud",
         "level4": "Poste 10",
         "person": "ALEXANDRA DENOYELLE",
-        "kpi": 82
+        "kpi": 85
     },
     {
         "level1": "Dom Monceau TI",
@@ -717,7 +693,7 @@
         "level3": "Zone Sud",
         "level4": "Poste 11",
         "person": "SARAH AFFRE",
-        "kpi": 74
+        "kpi": 65
     },
     {
         "level1": "Dom Monceau TI",
@@ -725,22 +701,14 @@
         "level3": "Zone Sud",
         "level4": "Poste 12",
         "person": "SARAH LAWNICZAK",
-        "kpi": 25
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "DRT",
-        "level3": "Zone Sud",
-        "level4": "Poste 13",
-        "person": "CHRISTOPHE VOGRINCIC",
-        "kpi": 21
+        "kpi": 40
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "DRT",
         "level3": "Zone Nord Est",
-        "person": "Afsaneh LELLAHI-MONTARGES",
-        "kpi": 93
+        "person": "DELPHINE DE FORNEL",
+        "kpi": 90
     },
     {
         "level1": "Dom Monceau TI",
@@ -748,7 +716,7 @@
         "level3": "Zone Nord Est",
         "level4": "Poste 1",
         "person": "LOUIS MARIE ALLARD",
-        "kpi": 88
+        "kpi": 49
     },
     {
         "level1": "Dom Monceau TI",
@@ -756,7 +724,7 @@
         "level3": "Zone Nord Est",
         "level4": "Poste 2",
         "person": "SABINE PEPIOT",
-        "kpi": 27
+        "kpi": 56
     },
     {
         "level1": "Dom Monceau TI",
@@ -764,7 +732,7 @@
         "level3": "Zone Nord Est",
         "level4": "Poste 3",
         "person": "AURORE BAILLET",
-        "kpi": 93
+        "kpi": 73
     },
     {
         "level1": "Dom Monceau TI",
@@ -772,7 +740,7 @@
         "level3": "Zone Nord Est",
         "level4": "Poste 4",
         "person": "BASTIEN REMURIER",
-        "kpi": 89
+        "kpi": 98
     },
     {
         "level1": "Dom Monceau TI",
@@ -780,7 +748,7 @@
         "level3": "Zone Nord Est",
         "level4": "Poste 5",
         "person": "BENJAMIN DELHAYE",
-        "kpi": 51
+        "kpi": 83
     },
     {
         "level1": "Dom Monceau TI",
@@ -788,7 +756,7 @@
         "level3": "Zone Nord Est",
         "level4": "Poste 6",
         "person": "MICHAEL GELOEN",
-        "kpi": 23
+        "kpi": 81
     },
     {
         "level1": "Dom Monceau TI",
@@ -796,7 +764,7 @@
         "level3": "Zone Nord Est",
         "level4": "Poste 7",
         "person": "NICOLAS LATRAYE",
-        "kpi": 72
+        "kpi": 56
     },
     {
         "level1": "Dom Monceau TI",
@@ -804,7 +772,7 @@
         "level3": "Zone Nord Est",
         "level4": "Poste 8",
         "person": "MATHIEU DULOT",
-        "kpi": 44
+        "kpi": 54
     },
     {
         "level1": "Dom Monceau TI",
@@ -812,7 +780,7 @@
         "level3": "Zone Nord Est",
         "level4": "Poste 9",
         "person": "VICTOIRE LEFEVRE",
-        "kpi": 70
+        "kpi": 68
     },
     {
         "level1": "Dom Monceau TI",
@@ -820,7 +788,7 @@
         "level3": "Zone Nord Est",
         "level4": "Poste 10",
         "person": "CLARISSE GUIZIOU JAOUEN",
-        "kpi": 78
+        "kpi": 49
     },
     {
         "level1": "Dom Monceau TI",
@@ -828,7 +796,7 @@
         "level3": "Zone Nord Est",
         "level4": "Poste 11",
         "person": "VICTOR FLEURY",
-        "kpi": 84
+        "kpi": 82
     },
     {
         "level1": "Dom Monceau TI",
@@ -836,22 +804,14 @@
         "level3": "Zone Nord Est",
         "level4": "Poste 12",
         "person": "TOM GUILLAUME",
-        "kpi": 65
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "DRT",
-        "level3": "Zone Nord Est",
-        "level4": "Poste 13",
-        "person": "DELPHINE DE FORNEL",
-        "kpi": 65
+        "kpi": 72
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "DRT",
         "level3": "Evaluation intrants et biocontrôle",
-        "person": "Afsaneh LELLAHI-MONTARGES",
-        "kpi": 37
+        "person": "FRANCK DUROUEIX",
+        "kpi": 83
     },
     {
         "level1": "Dom Monceau TI",
@@ -859,7 +819,7 @@
         "level3": "Evaluation intrants et biocontrôle",
         "level4": "Poste 1",
         "person": "MONIQUE HEBRAIL",
-        "kpi": 97
+        "kpi": 44
     },
     {
         "level1": "Dom Monceau TI",
@@ -867,7 +827,7 @@
         "level3": "Evaluation intrants et biocontrôle",
         "level4": "Poste 2",
         "person": "LAURENT RUCK",
-        "kpi": 40
+        "kpi": 53
     },
     {
         "level1": "Dom Monceau TI",
@@ -875,7 +835,7 @@
         "level3": "Evaluation intrants et biocontrôle",
         "level4": "Poste 3",
         "person": "GWENOLA RIQUET",
-        "kpi": 74
+        "kpi": 71
     },
     {
         "level1": "Dom Monceau TI",
@@ -883,22 +843,14 @@
         "level3": "Evaluation intrants et biocontrôle",
         "level4": "Poste 4",
         "person": "OCEANE SAINT LYS",
-        "kpi": 96
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "DRT",
-        "level3": "Evaluation intrants et biocontrôle",
-        "level4": "Poste 5",
-        "person": "FRANCK DUROUEIX",
-        "kpi": 79
+        "kpi": 28
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Recherche et Expérimentation",
         "level3": "Département expérimentation",
-        "person": "FREDERIC GIRAUD",
-        "kpi": 25
+        "person": "MAXIME BECU",
+        "kpi": 83
     },
     {
         "level1": "Dom Monceau TI",
@@ -906,7 +858,7 @@
         "level3": "Département expérimentation",
         "level4": "Poste 1",
         "person": "CLAIRE DORMOKRAJ",
-        "kpi": 84
+        "kpi": 41
     },
     {
         "level1": "Dom Monceau TI",
@@ -914,7 +866,7 @@
         "level3": "Département expérimentation",
         "level4": "Poste 2",
         "person": "CAROLINE CHAYNES",
-        "kpi": 50
+        "kpi": 82
     },
     {
         "level1": "Dom Monceau TI",
@@ -922,23 +874,15 @@
         "level3": "Département expérimentation",
         "level4": "Poste 3",
         "person": "SOLENNE FAUL GODEC",
-        "kpi": 58
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "Direction Recherche et Expérimentation",
-        "level3": "Département expérimentation",
-        "level4": "Poste 4",
-        "person": "MAXIME BECU",
-        "kpi": 92
+        "kpi": 63
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Recherche et Expérimentation",
         "level3": "Département expérimentation",
         "level4": "Expé BRETENIERE",
-        "person": "MAXIME BECU",
-        "kpi": 46
+        "person": "LIONEL THIERY",
+        "kpi": 31
     },
     {
         "level1": "Dom Monceau TI",
@@ -947,7 +891,7 @@
         "level4": "Expé BRETENIERE",
         "level5": "Poste 1",
         "person": "SYLVIE CLERGET",
-        "kpi": 56
+        "kpi": 30
     },
     {
         "level1": "Dom Monceau TI",
@@ -956,7 +900,7 @@
         "level4": "Expé BRETENIERE",
         "level5": "Poste 2",
         "person": "ALICE BOUCHARAT",
-        "kpi": 69
+        "kpi": 64
     },
     {
         "level1": "Dom Monceau TI",
@@ -965,7 +909,7 @@
         "level4": "Expé BRETENIERE",
         "level5": "Poste 3",
         "person": "CLELIA BRUNE",
-        "kpi": 68
+        "kpi": 65
     },
     {
         "level1": "Dom Monceau TI",
@@ -974,7 +918,7 @@
         "level4": "Expé BRETENIERE",
         "level5": "Poste 4",
         "person": "LUCAS REICHERT",
-        "kpi": 89
+        "kpi": 76
     },
     {
         "level1": "Dom Monceau TI",
@@ -983,7 +927,7 @@
         "level4": "Expé BRETENIERE",
         "level5": "Poste 5",
         "person": "CARLA SCHWEITZER",
-        "kpi": 25
+        "kpi": 96
     },
     {
         "level1": "Dom Monceau TI",
@@ -992,24 +936,15 @@
         "level4": "Expé BRETENIERE",
         "level5": "Poste 6",
         "person": "ALICE MILLOT",
-        "kpi": 89
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "Direction Recherche et Expérimentation",
-        "level3": "Département expérimentation",
-        "level4": "Expé BRETENIERE",
-        "level5": "Poste 7",
-        "person": "LIONEL THIERY",
-        "kpi": 70
+        "kpi": 24
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Recherche et Expérimentation",
         "level3": "Département expérimentation",
         "level4": "Expé MONS",
-        "person": "MAXIME BECU",
-        "kpi": 94
+        "person": "PATRICK DEVAUX",
+        "kpi": 44
     },
     {
         "level1": "Dom Monceau TI",
@@ -1018,7 +953,7 @@
         "level4": "Expé MONS",
         "level5": "Poste 1",
         "person": "PIERRE EDOUARD DEROY",
-        "kpi": 90
+        "kpi": 81
     },
     {
         "level1": "Dom Monceau TI",
@@ -1027,7 +962,7 @@
         "level4": "Expé MONS",
         "level5": "Poste 2",
         "person": "AMANDINE MAROTTE",
-        "kpi": 78
+        "kpi": 71
     },
     {
         "level1": "Dom Monceau TI",
@@ -1036,7 +971,7 @@
         "level4": "Expé MONS",
         "level5": "Poste 3",
         "person": "STEPHANE SCHRYVE",
-        "kpi": 24
+        "kpi": 96
     },
     {
         "level1": "Dom Monceau TI",
@@ -1045,7 +980,7 @@
         "level4": "Expé MONS",
         "level5": "Poste 4",
         "person": "CLEMENCE GAST",
-        "kpi": 82
+        "kpi": 96
     },
     {
         "level1": "Dom Monceau TI",
@@ -1054,7 +989,7 @@
         "level4": "Expé MONS",
         "level5": "Poste 5",
         "person": "Lénaëlle SOISSON",
-        "kpi": 49
+        "kpi": 44
     },
     {
         "level1": "Dom Monceau TI",
@@ -1063,24 +998,15 @@
         "level4": "Expé MONS",
         "level5": "Poste 6",
         "person": "FLORENT BRANCOURT",
-        "kpi": 68
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "Direction Recherche et Expérimentation",
-        "level3": "Département expérimentation",
-        "level4": "Expé MONS",
-        "level5": "Poste 7",
-        "person": "PATRICK DEVAUX",
-        "kpi": 76
+        "kpi": 37
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Recherche et Expérimentation",
         "level3": "Département expérimentation",
         "level4": "Expé LIVERDUN",
-        "person": "MAXIME BECU",
-        "kpi": 97
+        "person": "OLIVIER MANGENOT",
+        "kpi": 76
     },
     {
         "level1": "Dom Monceau TI",
@@ -1089,7 +1015,7 @@
         "level4": "Expé LIVERDUN",
         "level5": "Poste 1",
         "person": "NATHALIE HAUDOT",
-        "kpi": 27
+        "kpi": 66
     },
     {
         "level1": "Dom Monceau TI",
@@ -1098,7 +1024,7 @@
         "level4": "Expé LIVERDUN",
         "level5": "Poste 2",
         "person": "DAVID COLIN",
-        "kpi": 38
+        "kpi": 20
     },
     {
         "level1": "Dom Monceau TI",
@@ -1107,7 +1033,7 @@
         "level4": "Expé LIVERDUN",
         "level5": "Poste 3",
         "person": "GWENOLA MARAGE",
-        "kpi": 20
+        "kpi": 26
     },
     {
         "level1": "Dom Monceau TI",
@@ -1116,7 +1042,7 @@
         "level4": "Expé LIVERDUN",
         "level5": "Poste 4",
         "person": "JULIETTE VERCELOT",
-        "kpi": 68
+        "kpi": 23
     },
     {
         "level1": "Dom Monceau TI",
@@ -1125,7 +1051,7 @@
         "level4": "Expé LIVERDUN",
         "level5": "Poste 5",
         "person": "GUILLAUME THOUVENIN MANON",
-        "kpi": 76
+        "kpi": 79
     },
     {
         "level1": "Dom Monceau TI",
@@ -1134,24 +1060,15 @@
         "level4": "Expé LIVERDUN",
         "level5": "Poste 6",
         "person": "MARIEN MORTAS",
-        "kpi": 60
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "Direction Recherche et Expérimentation",
-        "level3": "Département expérimentation",
-        "level4": "Expé LIVERDUN",
-        "level5": "Poste 7",
-        "person": "OLIVIER MANGENOT",
-        "kpi": 20
+        "kpi": 59
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Recherche et Expérimentation",
         "level3": "Département expérimentation",
         "level4": "Expé EN CRAMBADE",
-        "person": "MAXIME BECU",
-        "kpi": 39
+        "person": "Marlène OURLIAC",
+        "kpi": 56
     },
     {
         "level1": "Dom Monceau TI",
@@ -1160,7 +1077,7 @@
         "level4": "Expé EN CRAMBADE",
         "level5": "Poste 1",
         "person": "NICOLAS ALGANS",
-        "kpi": 93
+        "kpi": 62
     },
     {
         "level1": "Dom Monceau TI",
@@ -1169,7 +1086,7 @@
         "level4": "Expé EN CRAMBADE",
         "level5": "Poste 2",
         "person": "BAPTISTE DELMAS",
-        "kpi": 44
+        "kpi": 72
     },
     {
         "level1": "Dom Monceau TI",
@@ -1178,7 +1095,7 @@
         "level4": "Expé EN CRAMBADE",
         "level5": "Poste 3",
         "person": "YOHAN GREGORIO RODRIGUES",
-        "kpi": 61
+        "kpi": 45
     },
     {
         "level1": "Dom Monceau TI",
@@ -1187,7 +1104,7 @@
         "level4": "Expé EN CRAMBADE",
         "level5": "Poste 4",
         "person": "EVA ZANCHETTA",
-        "kpi": 100
+        "kpi": 20
     },
     {
         "level1": "Dom Monceau TI",
@@ -1196,24 +1113,15 @@
         "level4": "Expé EN CRAMBADE",
         "level5": "Poste 5",
         "person": "JODAR EMMA",
-        "kpi": 32
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "Direction Recherche et Expérimentation",
-        "level3": "Département expérimentation",
-        "level4": "Expé EN CRAMBADE",
-        "level5": "Poste 6",
-        "person": "Marlène OURLIAC",
-        "kpi": 81
+        "kpi": 34
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Recherche et Expérimentation",
         "level3": "Département expérimentation",
         "level4": "Expé AGEN",
-        "person": "MAXIME BECU",
-        "kpi": 98
+        "person": "MARCELO BUTI PRIETO",
+        "kpi": 79
     },
     {
         "level1": "Dom Monceau TI",
@@ -1222,7 +1130,7 @@
         "level4": "Expé AGEN",
         "level5": "Poste 1",
         "person": "MELISSA CARNAC",
-        "kpi": 63
+        "kpi": 42
     },
     {
         "level1": "Dom Monceau TI",
@@ -1231,7 +1139,7 @@
         "level4": "Expé AGEN",
         "level5": "Poste 2",
         "person": "THOMAS MONTILLARD",
-        "kpi": 24
+        "kpi": 59
     },
     {
         "level1": "Dom Monceau TI",
@@ -1240,7 +1148,7 @@
         "level4": "Expé AGEN",
         "level5": "Poste 3",
         "person": "MAEL FOUGERE",
-        "kpi": 21
+        "kpi": 40
     },
     {
         "level1": "Dom Monceau TI",
@@ -1249,16 +1157,7 @@
         "level4": "Expé AGEN",
         "level5": "Poste 4",
         "person": "NADA MESKALI",
-        "kpi": 76
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "Direction Recherche et Expérimentation",
-        "level3": "Département expérimentation",
-        "level4": "Expé AGEN",
-        "level5": "Poste 5",
-        "person": "MARCELO BUTI PRIETO",
-        "kpi": 41
+        "kpi": 90
     },
     {
         "level1": "Dom Monceau TI",
@@ -1266,7 +1165,7 @@
         "level3": "Département expérimentation",
         "level4": "Expé LE SUBDRAY",
         "person": "ETIENNE JUBERT",
-        "kpi": 80
+        "kpi": 75
     },
     {
         "level1": "Dom Monceau TI",
@@ -1275,7 +1174,7 @@
         "level4": "Expé LE SUBDRAY",
         "level5": "Poste 2",
         "person": "DAVID POISSON",
-        "kpi": 79
+        "kpi": 54
     },
     {
         "level1": "Dom Monceau TI",
@@ -1284,7 +1183,7 @@
         "level4": "Expé LE SUBDRAY",
         "level5": "Poste 3",
         "person": "NATHALIE CLEMENCEAU",
-        "kpi": 91
+        "kpi": 49
     },
     {
         "level1": "Dom Monceau TI",
@@ -1293,7 +1192,7 @@
         "level4": "Expé LE SUBDRAY",
         "level5": "Poste 4",
         "person": "MARINE CHOMBART",
-        "kpi": 24
+        "kpi": 91
     },
     {
         "level1": "Dom Monceau TI",
@@ -1302,7 +1201,7 @@
         "level4": "Expé LE SUBDRAY",
         "level5": "Poste 5",
         "person": "MAXIME BOIRON",
-        "kpi": 100
+        "kpi": 28
     },
     {
         "level1": "Dom Monceau TI",
@@ -1311,7 +1210,7 @@
         "level4": "Expé LE SUBDRAY",
         "level5": "Poste 6",
         "person": "CLEMENCE AGIER",
-        "kpi": 85
+        "kpi": 60
     },
     {
         "level1": "Dom Monceau TI",
@@ -1320,7 +1219,7 @@
         "level4": "Expé LE SUBDRAY",
         "level5": "Poste 7",
         "person": "FLORENTIN PEZARD",
-        "kpi": 44
+        "kpi": 47
     },
     {
         "level1": "Dom Monceau TI",
@@ -1329,15 +1228,15 @@
         "level4": "Expé LE SUBDRAY",
         "level5": "Poste 8",
         "person": "DAMIEN CHAMPIGNEUX",
-        "kpi": 73
+        "kpi": 33
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Recherche et Expérimentation",
         "level3": "Département expérimentation",
         "level4": "Expé SURGERES",
-        "person": "MAXIME BECU",
-        "kpi": 55
+        "person": "ROMARIC LANGE",
+        "kpi": 64
     },
     {
         "level1": "Dom Monceau TI",
@@ -1346,7 +1245,7 @@
         "level4": "Expé SURGERES",
         "level5": "Poste 1",
         "person": "DOMINIQUE FORGET",
-        "kpi": 24
+        "kpi": 88
     },
     {
         "level1": "Dom Monceau TI",
@@ -1355,7 +1254,7 @@
         "level4": "Expé SURGERES",
         "level5": "Poste 2",
         "person": "Solène MARTEAU",
-        "kpi": 37
+        "kpi": 93
     },
     {
         "level1": "Dom Monceau TI",
@@ -1364,7 +1263,7 @@
         "level4": "Expé SURGERES",
         "level5": "Poste 3",
         "person": "LENNY COQUELLE",
-        "kpi": 32
+        "kpi": 83
     },
     {
         "level1": "Dom Monceau TI",
@@ -1373,7 +1272,7 @@
         "level4": "Expé SURGERES",
         "level5": "Poste 4",
         "person": "AMALDIE TESSIER",
-        "kpi": 89
+        "kpi": 42
     },
     {
         "level1": "Dom Monceau TI",
@@ -1382,7 +1281,7 @@
         "level4": "Expé SURGERES",
         "level5": "Poste 5",
         "person": "ANNE COLLEVILLE",
-        "kpi": 21
+        "kpi": 71
     },
     {
         "level1": "Dom Monceau TI",
@@ -1391,24 +1290,15 @@
         "level4": "Expé SURGERES",
         "level5": "Poste 6",
         "person": "CHRISTOPHE LAMY",
-        "kpi": 91
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "Direction Recherche et Expérimentation",
-        "level3": "Département expérimentation",
-        "level4": "Expé SURGERES",
-        "level5": "Poste 7",
-        "person": "ROMARIC LANGE",
-        "kpi": 24
+        "kpi": 96
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Recherche et Expérimentation",
         "level3": "Département expérimentation",
         "level4": "Expé EVREUX",
-        "person": "MAXIME BECU",
-        "kpi": 88
+        "person": "JULES PERCHERON",
+        "kpi": 46
     },
     {
         "level1": "Dom Monceau TI",
@@ -1417,7 +1307,7 @@
         "level4": "Expé EVREUX",
         "level5": "Poste 1",
         "person": "BAPTISTE GRENIER",
-        "kpi": 45
+        "kpi": 58
     },
     {
         "level1": "Dom Monceau TI",
@@ -1426,7 +1316,7 @@
         "level4": "Expé EVREUX",
         "level5": "Poste 2",
         "person": "MAEVA LEPELTIER",
-        "kpi": 37
+        "kpi": 29
     },
     {
         "level1": "Dom Monceau TI",
@@ -1435,7 +1325,7 @@
         "level4": "Expé EVREUX",
         "level5": "Poste 3",
         "person": "EMILIE FLAMEN",
-        "kpi": 59
+        "kpi": 42
     },
     {
         "level1": "Dom Monceau TI",
@@ -1444,7 +1334,7 @@
         "level4": "Expé EVREUX",
         "level5": "Poste 4",
         "person": "CAROLE LOTTIN",
-        "kpi": 21
+        "kpi": 81
     },
     {
         "level1": "Dom Monceau TI",
@@ -1458,18 +1348,9 @@
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Recherche et Expérimentation",
-        "level3": "Département expérimentation",
-        "level4": "Expé EVREUX",
-        "level5": "Poste 6",
-        "person": "JULES PERCHERON",
-        "kpi": 77
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "Direction Recherche et Expérimentation",
         "level3": "DAGRO - Agro, environt, économie",
-        "person": "FREDERIC GIRAUD",
-        "kpi": 40
+        "person": "STEPHANE CADOUX",
+        "kpi": 98
     },
     {
         "level1": "Dom Monceau TI",
@@ -1477,7 +1358,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 1",
         "person": "LUC CHAMPOLIVIER",
-        "kpi": 66
+        "kpi": 91
     },
     {
         "level1": "Dom Monceau TI",
@@ -1485,7 +1366,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 2",
         "person": "BERNARD GARRIC",
-        "kpi": 34
+        "kpi": 91
     },
     {
         "level1": "Dom Monceau TI",
@@ -1493,7 +1374,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 3",
         "person": "ISABELLE MALFILATRE",
-        "kpi": 20
+        "kpi": 96
     },
     {
         "level1": "Dom Monceau TI",
@@ -1501,7 +1382,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 4",
         "person": "VINCENT LECOMTE",
-        "kpi": 51
+        "kpi": 81
     },
     {
         "level1": "Dom Monceau TI",
@@ -1509,7 +1390,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 5",
         "person": "CHRISTOPHE SAUSSE",
-        "kpi": 40
+        "kpi": 98
     },
     {
         "level1": "Dom Monceau TI",
@@ -1517,7 +1398,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 6",
         "person": "FRANCIS FLENET",
-        "kpi": 20
+        "kpi": 31
     },
     {
         "level1": "Dom Monceau TI",
@@ -1525,7 +1406,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 7",
         "person": "ANNE SOPHIE PERRIN",
-        "kpi": 89
+        "kpi": 60
     },
     {
         "level1": "Dom Monceau TI",
@@ -1533,7 +1414,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 8",
         "person": "NICOLAS CERRUTTI",
-        "kpi": 86
+        "kpi": 34
     },
     {
         "level1": "Dom Monceau TI",
@@ -1541,7 +1422,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 9",
         "person": "CECILE LE GALL",
-        "kpi": 87
+        "kpi": 24
     },
     {
         "level1": "Dom Monceau TI",
@@ -1549,7 +1430,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 10",
         "person": "VERONIQUE BIARNES",
-        "kpi": 96
+        "kpi": 99
     },
     {
         "level1": "Dom Monceau TI",
@@ -1557,7 +1438,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 11",
         "person": "ANNE SCHNEIDER",
-        "kpi": 20
+        "kpi": 46
     },
     {
         "level1": "Dom Monceau TI",
@@ -1565,7 +1446,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 12",
         "person": "HELENE TRIBOUILLOIS",
-        "kpi": 45
+        "kpi": 51
     },
     {
         "level1": "Dom Monceau TI",
@@ -1573,7 +1454,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 13",
         "person": "DOMITILLE JAMET",
-        "kpi": 73
+        "kpi": 94
     },
     {
         "level1": "Dom Monceau TI",
@@ -1581,7 +1462,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 14",
         "person": "BAPTISTE RAYON",
-        "kpi": 68
+        "kpi": 86
     },
     {
         "level1": "Dom Monceau TI",
@@ -1589,7 +1470,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 15",
         "person": "ZGAINSKI LUCIE",
-        "kpi": 91
+        "kpi": 27
     },
     {
         "level1": "Dom Monceau TI",
@@ -1597,7 +1478,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 16",
         "person": "MAXIME ZAHEDI",
-        "kpi": 37
+        "kpi": 83
     },
     {
         "level1": "Dom Monceau TI",
@@ -1605,7 +1486,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 17",
         "person": "MARION DELACOUX DES ROSEAUX",
-        "kpi": 81
+        "kpi": 40
     },
     {
         "level1": "Dom Monceau TI",
@@ -1613,7 +1494,7 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 18",
         "person": "NOE KAVOUKDJIAN DETOT",
-        "kpi": 71
+        "kpi": 73
     },
     {
         "level1": "Dom Monceau TI",
@@ -1621,22 +1502,14 @@
         "level3": "DAGRO - Agro, environt, économie",
         "level4": "Poste 19",
         "person": "EMILE LEREBOUR",
-        "kpi": 30
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "Direction Recherche et Expérimentation",
-        "level3": "DAGRO - Agro, environt, économie",
-        "level4": "Poste 20",
-        "person": "STEPHANE CADOUX",
-        "kpi": 38
+        "kpi": 74
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Recherche et Expérimentation",
         "level3": "DGPC - Génétique & protect° des cultures",
-        "person": "FREDERIC GIRAUD",
-        "kpi": 27
+        "person": "MARTINE LEFLON",
+        "kpi": 65
     },
     {
         "level1": "Dom Monceau TI",
@@ -1644,7 +1517,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 1",
         "person": "BLANDINE BAMME",
-        "kpi": 51
+        "kpi": 35
     },
     {
         "level1": "Dom Monceau TI",
@@ -1652,7 +1525,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 2",
         "person": "CELINE MOTARD",
-        "kpi": 96
+        "kpi": 53
     },
     {
         "level1": "Dom Monceau TI",
@@ -1660,7 +1533,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 3",
         "person": "ARNAUD VAN BOXSOM",
-        "kpi": 31
+        "kpi": 71
     },
     {
         "level1": "Dom Monceau TI",
@@ -1668,7 +1541,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 4",
         "person": "CHRISTOPHE JESTIN",
-        "kpi": 53
+        "kpi": 98
     },
     {
         "level1": "Dom Monceau TI",
@@ -1676,7 +1549,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 5",
         "person": "CELINE ROBERT",
-        "kpi": 92
+        "kpi": 29
     },
     {
         "level1": "Dom Monceau TI",
@@ -1684,7 +1557,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 6",
         "person": "ANNE MOUSSART",
-        "kpi": 36
+        "kpi": 57
     },
     {
         "level1": "Dom Monceau TI",
@@ -1692,7 +1565,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 7",
         "person": "MARIE-NOELLE EVEN",
-        "kpi": 78
+        "kpi": 89
     },
     {
         "level1": "Dom Monceau TI",
@@ -1700,7 +1573,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 8",
         "person": "BLANDINE RAFFIOT",
-        "kpi": 56
+        "kpi": 60
     },
     {
         "level1": "Dom Monceau TI",
@@ -1708,7 +1581,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 9",
         "person": "CORALIE BRIER",
-        "kpi": 69
+        "kpi": 79
     },
     {
         "level1": "Dom Monceau TI",
@@ -1716,7 +1589,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 10",
         "person": "Emilie Verdois",
-        "kpi": 26
+        "kpi": 74
     },
     {
         "level1": "Dom Monceau TI",
@@ -1724,7 +1597,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 11",
         "person": "FANNY VUILLEMIN",
-        "kpi": 41
+        "kpi": 28
     },
     {
         "level1": "Dom Monceau TI",
@@ -1732,7 +1605,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 12",
         "person": "ANTOINE LAUVERNAY",
-        "kpi": 28
+        "kpi": 39
     },
     {
         "level1": "Dom Monceau TI",
@@ -1740,7 +1613,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 13",
         "person": "MARINA MAUNY",
-        "kpi": 83
+        "kpi": 87
     },
     {
         "level1": "Dom Monceau TI",
@@ -1748,7 +1621,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 14",
         "person": "EMILIE SITNIKOW",
-        "kpi": 62
+        "kpi": 83
     },
     {
         "level1": "Dom Monceau TI",
@@ -1756,7 +1629,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 15",
         "person": "CLAIRE BARBET MASSIN",
-        "kpi": 34
+        "kpi": 66
     },
     {
         "level1": "Dom Monceau TI",
@@ -1764,7 +1637,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 16",
         "person": "RACHEL POIROT",
-        "kpi": 40
+        "kpi": 58
     },
     {
         "level1": "Dom Monceau TI",
@@ -1772,7 +1645,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 17",
         "person": "ANTOINE JARRIER",
-        "kpi": 62
+        "kpi": 83
     },
     {
         "level1": "Dom Monceau TI",
@@ -1780,7 +1653,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 18",
         "person": "CECILIA FONTYN",
-        "kpi": 84
+        "kpi": 81
     },
     {
         "level1": "Dom Monceau TI",
@@ -1788,7 +1661,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 19",
         "person": "CLEMENCE GERMAIN",
-        "kpi": 38
+        "kpi": 52
     },
     {
         "level1": "Dom Monceau TI",
@@ -1796,7 +1669,7 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 20",
         "person": "INGVILD DERROUCH",
-        "kpi": 48
+        "kpi": 28
     },
     {
         "level1": "Dom Monceau TI",
@@ -1804,22 +1677,14 @@
         "level3": "DGPC - Génétique & protect° des cultures",
         "level4": "Poste 21",
         "person": "ANTOINE GUIGNIOU",
-        "kpi": 59
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "Direction Recherche et Expérimentation",
-        "level3": "DGPC - Génétique & protect° des cultures",
-        "level4": "Poste 22",
-        "person": "MARTINE LEFLON",
-        "kpi": 49
+        "kpi": 99
     },
     {
         "level1": "Dom Monceau TI",
         "level2": "Direction Recherche et Expérimentation",
         "level3": "DTGV - Dép. transformation et valo.",
-        "person": "FREDERIC GIRAUD",
-        "kpi": 23
+        "person": "VINCENT JAUVION",
+        "kpi": 25
     },
     {
         "level1": "Dom Monceau TI",
@@ -1827,7 +1692,7 @@
         "level3": "DTGV - Dép. transformation et valo.",
         "level4": "Poste 1",
         "person": "SYLVIE DAUGUET",
-        "kpi": 37
+        "kpi": 23
     },
     {
         "level1": "Dom Monceau TI",
@@ -1835,7 +1700,7 @@
         "level3": "DTGV - Dép. transformation et valo.",
         "level4": "Poste 2",
         "person": "LAETITIA DEVEDEUX",
-        "kpi": 90
+        "kpi": 86
     },
     {
         "level1": "Dom Monceau TI",
@@ -1843,7 +1708,7 @@
         "level3": "DTGV - Dép. transformation et valo.",
         "level4": "Poste 3",
         "person": "PATRICK CARRE",
-        "kpi": 74
+        "kpi": 81
     },
     {
         "level1": "Dom Monceau TI",
@@ -1851,7 +1716,7 @@
         "level3": "DTGV - Dép. transformation et valo.",
         "level4": "Poste 4",
         "person": "TEKO GOUYO",
-        "kpi": 93
+        "kpi": 76
     },
     {
         "level1": "Dom Monceau TI",
@@ -1859,7 +1724,7 @@
         "level3": "DTGV - Dép. transformation et valo.",
         "level4": "Poste 5",
         "person": "ISABELLE HEYSCH DE LA BORDE",
-        "kpi": 92
+        "kpi": 54
     },
     {
         "level1": "Dom Monceau TI",
@@ -1867,7 +1732,7 @@
         "level3": "DTGV - Dép. transformation et valo.",
         "level4": "Poste 6",
         "person": "YAN LABERDESQUE",
-        "kpi": 24
+        "kpi": 87
     },
     {
         "level1": "Dom Monceau TI",
@@ -1875,7 +1740,7 @@
         "level3": "DTGV - Dép. transformation et valo.",
         "level4": "Poste 7",
         "person": "AXEL FALCHETTI CARTIER",
-        "kpi": 99
+        "kpi": 20
     },
     {
         "level1": "Dom Monceau TI",
@@ -1883,7 +1748,7 @@
         "level3": "DTGV - Dép. transformation et valo.",
         "level4": "Poste 8",
         "person": "NAOMI FILLION",
-        "kpi": 60
+        "kpi": 36
     },
     {
         "level1": "Dom Monceau TI",
@@ -1891,7 +1756,7 @@
         "level3": "DTGV - Dép. transformation et valo.",
         "level4": "Poste 9",
         "person": "RYAN ARNAUD",
-        "kpi": 52
+        "kpi": 54
     },
     {
         "level1": "Dom Monceau TI",
@@ -1899,7 +1764,7 @@
         "level3": "DTGV - Dép. transformation et valo.",
         "level4": "Poste 10",
         "person": "GUIRAUD ELSA",
-        "kpi": 70
+        "kpi": 60
     },
     {
         "level1": "Dom Monceau TI",
@@ -1907,7 +1772,7 @@
         "level3": "DTGV - Dép. transformation et valo.",
         "level4": "Poste 11",
         "person": "FELIX BARDEL",
-        "kpi": 66
+        "kpi": 94
     },
     {
         "level1": "Dom Monceau TI",
@@ -1915,15 +1780,7 @@
         "level3": "DTGV - Dép. transformation et valo.",
         "level4": "Poste 12",
         "person": "JUSTINE DORCAS ZOUA MEVA'A",
-        "kpi": 79
-    },
-    {
-        "level1": "Dom Monceau TI",
-        "level2": "Direction Recherche et Expérimentation",
-        "level3": "DTGV - Dép. transformation et valo.",
-        "level4": "Poste 13",
-        "person": "VINCENT JAUVION",
-        "kpi": 83
+        "kpi": 33
     },
     {
         "level1": "Dom Monceau TI",
@@ -1931,7 +1788,7 @@
         "level3": "DTGV - Dép. transformation et valo.",
         "level4": "Laboratoire d'Ardon",
         "person": "YAN LABERDESQUE",
-        "kpi": 29
+        "kpi": 63
     },
     {
         "level1": "Dom Monceau TI",
@@ -1940,7 +1797,7 @@
         "level4": "Laboratoire d'Ardon",
         "level5": "Poste 1",
         "person": "JOELLE GARRIOUX",
-        "kpi": 59
+        "kpi": 94
     },
     {
         "level1": "Dom Monceau TI",
@@ -1949,7 +1806,7 @@
         "level4": "Laboratoire d'Ardon",
         "level5": "Poste 2",
         "person": "MOHAMMED KROUTI",
-        "kpi": 35
+        "kpi": 47
     },
     {
         "level1": "Dom Monceau TI",
@@ -1958,7 +1815,7 @@
         "level4": "Laboratoire d'Ardon",
         "level5": "Poste 3",
         "person": "AUDREY GENDRON",
-        "kpi": 20
+        "kpi": 79
     },
     {
         "level1": "Dom Monceau TI",
@@ -1967,7 +1824,7 @@
         "level4": "Laboratoire d'Ardon",
         "level5": "Poste 4",
         "person": "CLAIRE RECULE",
-        "kpi": 39
+        "kpi": 20
     },
     {
         "level1": "Dom Monceau TI",
@@ -1976,7 +1833,7 @@
         "level4": "Laboratoire d'Ardon",
         "level5": "Poste 5",
         "person": "SYLVAIN TREGUIER",
-        "kpi": 49
+        "kpi": 30
     },
     {
         "level1": "Dom Monceau TI",
@@ -1985,7 +1842,7 @@
         "level4": "Laboratoire d'Ardon",
         "level5": "Poste 6",
         "person": "LIZA POWER",
-        "kpi": 20
+        "kpi": 57
     },
     {
         "level1": "Dom Monceau TI",
@@ -1994,7 +1851,7 @@
         "level4": "Laboratoire d'Ardon",
         "level5": "Poste 7",
         "person": "JEREMY MANZINI",
-        "kpi": 67
+        "kpi": 53
     },
     {
         "level1": "Dom Monceau TI",
@@ -2003,7 +1860,7 @@
         "level4": "Laboratoire d'Ardon",
         "level5": "Poste 8",
         "person": "ANGEL ABASS",
-        "kpi": 71
+        "kpi": 67
     },
     {
         "level1": "Dom Monceau TI",
@@ -2012,6 +1869,6 @@
         "level4": "Laboratoire d'Ardon",
         "level5": "Poste 9",
         "person": "MOHAMED OUJAMAA",
-        "kpi": 24
+        "kpi": 78
     }
 ]
